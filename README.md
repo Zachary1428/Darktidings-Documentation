@@ -8,7 +8,10 @@ Will be updating this everytime schema changes occurs.
 I hope you enjoy using my mod!  
 
 ## TO-DO  
-- Create developer API
-- Add extendable enchantment system
-- Distance Difficulty Configuration
-- Add MULTI-HUD Support
+-   Better UI
+-   Better indicators for levels and currency
+-   Developer API
+-   Distance Difficulty Configuration
+-   Enchantment System
+-   Fixing bugs along the way
+-   Add MULTI-HUD Support
