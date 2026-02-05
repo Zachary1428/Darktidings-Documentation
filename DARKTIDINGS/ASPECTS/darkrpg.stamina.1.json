@@ -1,0 +1,6 @@
+{
+  "tooltip": "aspect names are engine-specific. Try not to mess it up.",
+  "aspectName": "darkrpg.stamina.1",
+  "aspectType": "ADD",
+  "aspectPower": 0.1
+}

@@ -1,0 +1,21 @@
+{
+  "attributeID": "darkrpg.logging",
+  "attributeName": "Logging",
+  "attributeDescription": "Increases damage slightly and increases woodchopping speed.",
+  "startValue": 1.0,
+  "minValue": 1.0,
+  "maxValue": 1000.0,
+  "aspects": [
+    {
+      "key": "darkrpg.woodcutting.1"
+    },
+    {
+      "key": "darkrpg.damage.1"
+    }
+  ],
+  "soulCurrency": [
+    {
+      "id": "darkrpg.souls"
+    }
+  ]
+}

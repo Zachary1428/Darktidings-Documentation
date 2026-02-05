@@ -1,0 +1,21 @@
+{
+  "attributeID": "darkrpg.spirit",
+  "attributeName": "Spirit",
+  "attributeDescription": "Enables passive mana regeneration",
+  "startValue": 1.0,
+  "minValue": 1.0,
+  "maxValue": 1000.0,
+  "aspects": [
+    {
+      "key": "darkrpg.manaregenPercent[NON-EXISTENT][NON-EXISTENT][NON-EXISTENT]"
+    },
+    {
+      "key": "darkrpg.manaregenflat[NON-EXISTENT][NON-EXISTENT][NON-EXISTENT]"
+    }
+  ],
+  "soulCurrency": [
+    {
+      "id": "darkrpg.souls"
+    }
+  ]
+}

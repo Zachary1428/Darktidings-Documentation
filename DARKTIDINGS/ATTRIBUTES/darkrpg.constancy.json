@@ -1,0 +1,21 @@
+{
+  "attributeID": "darkrpg.constancy",
+  "attributeName": "Constancy",
+  "attributeDescription": "Enables passive health regeneration",
+  "startValue": 1.0,
+  "minValue": 1.0,
+  "maxValue": 1000.0,
+  "aspects": [
+    {
+      "key": "darkrpg.healthregenPercent.1"
+    },
+    {
+      "key": "darkrpg.healthregenflat.1"
+    }
+  ],
+  "soulCurrency": [
+    {
+      "id": "darkrpg.souls"
+    }
+  ]
+}

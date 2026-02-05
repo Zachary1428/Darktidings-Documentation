@@ -1,0 +1,24 @@
+{
+  "attributeID": "darkrpg.precision",
+  "attributeName": "Precision",
+  "attributeDescription": "Precision increases damage, critical damage, and critical chance minimum",
+  "startValue": 1.0,
+  "minValue": 1.0,
+  "maxValue": 1000.0,
+  "aspects": [
+    {
+      "key": "darkrpg.damage.1"
+    },
+    {
+      "key": "darkrpg.critdamage.1"
+    },
+    {
+      "key": "darkrpg.critchancemin.1"
+    }
+  ],
+  "soulCurrency": [
+    {
+      "id": "darkrpg.souls"
+    }
+  ]
+}

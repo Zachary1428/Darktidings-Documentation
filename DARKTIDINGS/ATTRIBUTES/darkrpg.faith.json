@@ -1,0 +1,18 @@
+{
+  "attributeID": "darkrpg.faith",
+  "attributeName": "Faith",
+  "attributeDescription": "Faith increases mana and spell intensity.",
+  "startValue": 1.0,
+  "minValue": 1.0,
+  "maxValue": 1000.0,
+  "aspects": [
+    {
+      "key": "darkrpg.mana.2"
+    }
+  ],
+  "soulCurrency": [
+    {
+      "id": "darkrpg.souls"
+    }
+  ]
+}

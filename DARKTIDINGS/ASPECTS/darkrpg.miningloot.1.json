@@ -1,0 +1,6 @@
+{
+  "tooltip": "aspect names are engine-specific. Try not to mess it up.",
+  "aspectName": "darkrpg.miningloot.1",
+  "aspectType": "MULTI",
+  "aspectPower": 0.025
+}

@@ -1,0 +1,10 @@
+{
+  "soulID": "darkrpg.souls",
+  "soulName": "Soul Fragments",
+  "soulDescription": "Used to increase attributes.",
+  "startingSouls": 0.0,
+  "initialSoulCost": 600.0,
+  "minSoulCostPerLevel": 15.0,
+  "maxSoulCost": 1000000.0,
+  "soulCostMultiplier": 1.025
+}

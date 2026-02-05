@@ -1,0 +1,6 @@
+{
+  "tooltip": "aspect names are engine-specific. Try not to mess it up.",
+  "aspectName": "darkrpg.health.1",
+  "aspectType": "ADD",
+  "aspectPower": 1.0
+}

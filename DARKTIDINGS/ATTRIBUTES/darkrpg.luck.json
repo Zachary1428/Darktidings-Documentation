@@ -1,0 +1,21 @@
+{
+  "attributeID": "darkrpg.luck",
+  "attributeName": "Luck",
+  "attributeDescription": "Increases loot drop from mining ore amd slightly increases damage.",
+  "startValue": 1.0,
+  "minValue": 1.0,
+  "maxValue": 1000.0,
+  "aspects": [
+    {
+      "key": "darkrpg.damage.1"
+    },
+    {
+      "key": "darkrpg.miningloot.1"
+    }
+  ],
+  "soulCurrency": [
+    {
+      "id": "darkrpg.souls"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "attributeID": "darkrpg.prospecting",
+  "attributeName": "Prospecting",
+  "attributeDescription": "Increases flat defenses and increases mining speed.",
+  "startValue": 1.0,
+  "minValue": 1.0,
+  "maxValue": 1000.0,
+  "aspects": [
+    {
+      "key": "darkrpg.mining.1"
+    },
+    {
+      "key": "darkrpg.flatdefense.2"
+    }
+  ],
+  "soulCurrency": [
+    {
+      "id": "darkrpg.souls"
+    }
+  ]
+}

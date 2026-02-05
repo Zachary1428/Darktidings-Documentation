@@ -1,0 +1,24 @@
+{
+  "attributeID": "darkrpg.ironwill",
+  "attributeName": "Iron Will",
+  "attributeDescription": "Iron Will increases defense and slightly increases health.",
+  "startValue": 1.0,
+  "minValue": 1.0,
+  "maxValue": 1000.0,
+  "aspects": [
+    {
+      "key": "darkrpg.health.1"
+    },
+    {
+      "key": "darkrpg.stamina.1"
+    },
+    {
+      "key": "darkrpg.defense.3"
+    }
+  ],
+  "soulCurrency": [
+    {
+      "id": "darkrpg.souls"
+    }
+  ]
+}

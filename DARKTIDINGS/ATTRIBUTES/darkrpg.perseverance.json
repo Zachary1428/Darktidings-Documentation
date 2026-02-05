@@ -1,0 +1,21 @@
+{
+  "attributeID": "darkrpg.perseverance",
+  "attributeName": "Perseverance",
+  "attributeDescription": "Enables passive stamina regeneration",
+  "startValue": 1.0,
+  "minValue": 1.0,
+  "maxValue": 1000.0,
+  "aspects": [
+    {
+      "key": "darkrpg.staminaregenPercent.1"
+    },
+    {
+      "key": "darkrpg.staminaregenflat.1"
+    }
+  ],
+  "soulCurrency": [
+    {
+      "id": "darkrpg.souls"
+    }
+  ]
+}

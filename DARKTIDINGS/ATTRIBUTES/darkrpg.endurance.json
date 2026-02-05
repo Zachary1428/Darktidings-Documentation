@@ -1,0 +1,24 @@
+{
+  "attributeID": "darkrpg.endurance",
+  "attributeName": "Endurance",
+  "attributeDescription": "Endurance increases stamina, oxygen, and defense slightly",
+  "startValue": 1.0,
+  "minValue": 1.0,
+  "maxValue": 1000.0,
+  "aspects": [
+    {
+      "key": "darkrpg.stamina.3"
+    },
+    {
+      "key": "darkrpg.oxygen.1"
+    },
+    {
+      "key": "darkrpg.flatdefense.1"
+    }
+  ],
+  "soulCurrency": [
+    {
+      "id": "darkrpg.souls"
+    }
+  ]
+}

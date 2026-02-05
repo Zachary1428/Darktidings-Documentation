@@ -1,0 +1,24 @@
+{
+  "attributeID": "darkrpg.strength",
+  "attributeName": "Strength",
+  "attributeDescription": "Strength increases damage, defense, and critical chance max",
+  "startValue": 1.0,
+  "minValue": 1.0,
+  "maxValue": 1000.0,
+  "aspects": [
+    {
+      "key": "darkrpg.damage.2"
+    },
+    {
+      "key": "darkrpg.defense.2"
+    },
+    {
+      "key": "darkrpg.critchancemax.1"
+    }
+  ],
+  "soulCurrency": [
+    {
+      "id": "darkrpg.souls"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "attributeID": "darkrpg.vigor",
+  "attributeName": "Vigor",
+  "attributeDescription": "Vigor greatly increases health, slightly in defenses and stamina",
+  "startValue": 1.0,
+  "minValue": 1.0,
+  "maxValue": 1000.0,
+  "aspects": [
+    {
+      "key": "darkrpg.health.3"
+    },
+    {
+      "key": "darkrpg.defense.1"
+    },
+    {
+      "key": "darkrpg.flatdefense.1"
+    },
+    {
+      "key": "darkrpg.stamina.1"
+    }
+  ],
+  "soulCurrency": [
+    {
+      "id": "darkrpg.souls"
+    }
+  ]
+}

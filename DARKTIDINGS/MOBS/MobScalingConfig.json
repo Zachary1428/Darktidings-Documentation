@@ -1,0 +1,52 @@
+{
+  "biomeDamageScaling": {
+    "isToggled": true,
+    "value": 0.23999999463558197
+  },
+  "levelDamageScaling": {
+    "isToggled": true,
+    "value": 0.17499999701976776
+  },
+  "avgLevelHealthScaling": {
+    "isToggled": true,
+    "value": 0.5
+  },
+  "biomeHealthScaling": {
+    "isToggled": true,
+    "value": 1.25
+  },
+  "mobLevelScalingHealth": {
+    "isToggled": true,
+    "value": 1.0
+  },
+  "healthLevelPadding": {
+    "isToggled": true,
+    "everyX": 15.0,
+    "valuePerX": 5.0
+  },
+  "averagedLevelHealthPadding": {
+    "isToggled": true,
+    "everyX": 50.0,
+    "valuePerX": 30.0
+  },
+  "soulRewards": {
+    "darkrpg.souls": {
+      "baseReward": 75.0,
+      "levelScaling": {
+        "isToggled": true,
+        "everyX": 1.0,
+        "valuePerX": 3.0
+      },
+      "healthScaling": {
+        "isToggled": true,
+        "everyX": 8.5,
+        "valuePerX": 4.5
+      },
+      "damageScaling": {
+        "isToggled": true,
+        "everyX": 0.75,
+        "valuePerX": 2.75
+      }
+    }
+  }
+}
